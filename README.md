@@ -16,10 +16,19 @@ Welcome to my GitHub profile! I'm a third year Computer Science and Artificial I
 
 | **Role**               | **Organization**        | **Description**                              | **Languages/Frameworks**                  |
 |------------------------|--------------------------|----------------------------------------------|-------------------------------------------|
-| **Machine Learning Intern**  | Nestlé | In Progress | Python, Transformers, NLTK, Scikit-Learn|
-| **Artificial Intelligence Development Intern**         | TinTash | •	Worked as part of a small team developing a game-development specific LLM for Unity.<br>•	Delivered proof of concept through creating a small scale LLM in unity.<br>•	Completed a standalone project, creating a LLM powered multi-agent system, where each of the 5 agents communicated with one another to develop small scale applications.| Unity, C#, Python, Langchain              |
-| **Technology Analyst**         | Nottingham Economics and Finance Society	| •	1/25 selected from 92 applicants, learnt in detail about financial concepts such as asset classes (derivatives, equities, bonds).<br>•	As a quantitative developer, collaborated with a team in creating an algorithmic trading project.<br> •	Implemented trading strategies and optimized risk management systems, increasing their signal speed and stability.| Java, Maven|
-| **Front-End Developer**  | Freelance |•	Developed webpages for 20+ SME’s sourced both online and through word of mouth. <br> •	Gathered requirements – then designed prototypes. Refined and built final product while liaising with client needs.<br> Upkept and streamlined the webpages based on new client requirements.•	Increased sales and impressions by more than 15% for all the businesses – for instance boosted Golden Gas – a gas marketing companies’ sales by 40%.| HTML, Javascript, CSS |
+| **Machine Learning Intern**  | Nestlé | •	1/25 selected from 92 applicants, worked on developing a FOREX GBP/USD trading strategy that returned a simulated average profit of 13% over the past five years. <br>
+•	As a quantitative developer, helped design the strategy to be used, by analyzing the data for historical trends and defining clear risk parameters. <br>
+•	As software engineer, created and updated the trading algorithm in python, while also implementing back testing functions to simulate the strategies performance. <br>
+| Python, Transformers, NLTK, Scikit-Learn|
+| **Artificial Intelligence Development Intern** | TinTash | •	Worked as part of a small team developing a game-development specific LLM plugin for Unity using C#. <br>
+•	Delivered proof of concept through implementing a code generator that created gameObjects, added scripts and attached the scripts to the gameObject automatically using the ChatGPT API. <br>
+•	Completed a standalone project, creating a LLM powered multi-agent system using Langchain, where each of the 5 agents communicated with one another. <br>
+|**Quantitative Developer/Software Engineer**| Nottingham Economics and Finance Society|
+•	1/25 selected from 92 applicants, worked on developing a FOREX GBP/USD trading strategy that returned a simulated average profit of 13% over the past five years. <br>
+•	As a quantitative developer, helped design the strategy to be used, by analyzing the data for historical trends and defining clear risk parameters. <br>
+•	As software engineer, created and updated the trading algorithm in python, while also implementing back testing functions to simulate the strategies performance. <br>
+| Java, Maven|
+| **Front-End Developer**  | Freelance |•	Developed webpages for 20+ SME’s sourced both online and through word of mouth. <br> •	Gathered requirements – then designed prototypes. Refined and built final product while liaising with client needs.<br> Upkept and streamlined the webpages based on new client requirements.•	The newly-created webpages increased company sales and impressions by more than 15% for the businesses – for instance boosted Golden Gas – a gas marketing companies’ sales by 40%. | HTML, Javascript, CSS |
 | **Products Team and Data Analyst Intern**  | Bank Alfalah |•	Learnt complex SQL to query a database with millions of entries to comparatively analyze trends for team needs.<br> •	Utilized python to geolocate and heatmap over 70,000 POS and ecommerce merchants and analyzed areas with low merchant counts for onboarding in both tier 1 and tier 2 cities.<br> •	Developed various AI based CHURN Models trained on queried data to find 200 merchants that are at risk of churning in the next quarter.| Python, SQL|
  
 ---
