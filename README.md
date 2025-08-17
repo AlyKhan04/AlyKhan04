@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Aly!
 
-Welcome to my GitHub profile! I'm a third year Computer Science and Artificial Intelligence student at the University of Nottingham. I enjoy meeting new people and one of my favourite Hobbies is hiking! 
+Welcome to my GitHub profile! I'm a third year Computer Science and Artificial Intelligence student at the University of Nottingham. I enjoy meeting new people and one of my favourite hobbies is hiking! 
 
 ## 🚀 Skills & Technologies
 
